@@ -17,3 +17,5 @@ RoMinistrator does allow you to create custom commands, but this does require so
 # Setting up RoMinistrator
 
 If you wish to self host RoMinistrator, click [here](https://docs.rocky-rosso.xyz/roministrator/set-up/setting-up-roministrator) to get started.
+
+You can find the Roblox model [here](https://www.roblox.com/library/12850717613/RoMinistrator-Panel)
