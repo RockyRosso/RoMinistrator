@@ -1,0 +1,24 @@
+{
+	"guildid": "873172122342654012",
+	"universe_id": 2511150626,
+	"ephemeral_errors": true,
+	"ephemeral_res": false,
+	"colors": {
+		"bot_color": "0x008DFF",
+		"error_color": "0xFF0000"
+	},
+	"keys": {
+		"ban_key": "romini_bans",
+		"user_data": "romini_users-"
+	},
+	"userdata_temp": {
+		"name": "",
+		"id": 0,
+		"verified": false,
+		"warnings": 0,
+		"owner": false,
+		"perm_level": ""
+	},
+	"whitelisted_roles": [],
+	"verified_users": []
+}
